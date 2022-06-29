@@ -1,0 +1,32 @@
+{
+    "theme_color": "#192647",
+    "background_color": "#2a1604",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "https://tomaszmurzynski.github.io/ZTI_PWA/",
+    "name": "Tomasz Murzynski GD10354 PWA RePOI",
+    "short_name": "repoiApp",
+    "description": "blog o repoi w ramach zaj\u0119\u0107 WSB",
+    "icons": [
+        {
+            "src": "./manifest/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./manifest/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "./manifest/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "./manifest/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
