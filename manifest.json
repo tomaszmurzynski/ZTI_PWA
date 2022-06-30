@@ -6,7 +6,7 @@
     "start_url": "https://tomaszmurzynski.github.io/ZTI_PWA/",
     "name": "Tomasz Murzynski GD10354 PWA RePOI",
     "short_name": "repoiApp",
-    "description": "blog o repoi w ramach zaj\u0119\u0107 WSB",
+    "description": "blog o repoi w ramach zajec WSB",
     "icons": [
         {
             "src": "./manifest/icon-192x192.png",
